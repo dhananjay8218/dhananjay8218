@@ -32,4 +32,6 @@ Employer and client systems, so the repos are private. Happy to walk through the
 
 ## Contact
 
-📩 officialdhananjay76@gmail.com · Noida, India · Remote
+📩 officialdhananjay76@gmail.com · [LinkedIn](https://www.linkedin.com/in/dhananjay-kumar-497b3a139) · Noida, India · Remote
+
+Open to remote backend and AI product roles.
