@@ -13,18 +13,18 @@ Currently a Software Engineer at **ONOV8 (Omni Innovation)**, remote, building b
 
 ## Selected work
 
-| Project | What it does | Built with |
-|---|---|---|
-| **Kashout** | Lottery distribution platform. Dual-ledger, paisa-precise money movement with idempotent operations. OpenAI vision extracts results from PDFs. Multi-channel notifications. | NestJS, PostgreSQL, BullMQ, React, Next.js, AWS |
-| **Ovast** | AI automation platform. Vapi voice agents plus a content pipeline (GPT-4o, DALL·E, Claude as a verification gate) that auto-publishes to Instagram and LinkedIn. | Node.js, Kafka, RabbitMQ, Make, FFmpeg |
-| **OG Media 360** | Full-stack platform designed and built solo: animated Next.js frontend, complete NestJS backend, Recharts admin. | Next.js, NestJS, TypeScript |
+| Project | What it does | Built with | Repos (private) |
+|---|---|---|---|
+| **Kashout** | Lottery distribution platform. Dual-ledger, paisa-precise money movement with idempotent operations. OpenAI vision extracts results from PDFs. Multi-channel notifications. | NestJS, PostgreSQL, BullMQ, React, Next.js, AWS | `kashout-backend`, `kashout-web` |
+| **Ovast** | AI automation platform. Vapi voice agents plus a content pipeline (GPT-4o, DALL·E, Claude as a verification gate) that auto-publishes to Instagram and LinkedIn. Plus a self-hosted resume generator: JSON to HTML/CSS to headless Chrome to ATS-clean PDF. | Node.js, Kafka, RabbitMQ, Make, FFmpeg | `ovast-resume-builder` |
+| **OG Media 360** | Full-stack platform designed and built solo: animated Next.js frontend, complete NestJS backend, Recharts admin. | Next.js, NestJS, TypeScript | `ogmedia360-server`, `ogmedia360-admin`, `ogmedia360-web-v2` |
 
-These are client systems, so their code is private. Public examples of how I build:
+These are client systems, so those repos are private. Public examples of how I build:
 
 - [python-ecommerce-backend](https://github.com/dhananjay8218/python-ecommerce-backend): FastAPI e-commerce backend with clean architecture, JWT auth, OTP, payments, Alembic migrations, Docker
 - [go-ecommerce-aws](https://github.com/dhananjay8218/go-ecommerce-aws): e-commerce backend as Go microservices behind an API gateway
 - [ecom-web-nextjs](https://github.com/dhananjay8218/ecom-web-nextjs): Next.js 14 storefront with TypeScript and Tailwind
-- [react-microservice](https://github.com/dhananjay8218/react-microservice): React frontend for a microservices backend, with Redux Toolkit and Socket.IO
+- [react-microservice](https://github.com/dhananjay8218/react-microservice): React frontend for a microservices backend (private `nodejs-microservice`), with Redux Toolkit and Socket.IO
 - [redis-nodejs-docker](https://github.com/dhananjay8218/redis-nodejs-docker): Node.js API with Redis Stack, wired up with Docker Compose
 
 ## Stack
